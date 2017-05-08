@@ -1,0 +1,10 @@
+Instalar
+- npm install --global foundation-cli
+- npm install gulp-webserver --save
+
+Iniciar o projeto
+- foundation new <nome-projeto>
+
+Rodar o projeto
+- npm start
+- http://localhost:8000
